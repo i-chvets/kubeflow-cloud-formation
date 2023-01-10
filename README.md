@@ -28,5 +28,5 @@ After the juju components are in Active state, setup your browser Proxy (Firefox
 ## Cost estimates
 The only charged aws resource within the template is the ec2 instance `t2.2xlarge` with `gp2` volume of size `100GB`. You can find the cost caluculation at [this link](https://calculator.aws/#/estimate?id=2c3ee088d98101f4c1bb1e41cc86704e7a52ddd2)
 
-## Archytecture
+## Architecture
 You can find the archytectural diagram for the template in the file `template1-designer.png`.
